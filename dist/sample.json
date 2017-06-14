@@ -1,0 +1,39 @@
+{
+	"products" : [
+    {
+        "itemId":1,
+        "itemTitle": "Sony Cyber-shot DSC-W830/BC Point & Shoot Camera(Black)",
+        "rating": 1.5,
+        "price": 7250,
+        "emiPrice": 352,
+        "itemImage": "/images/cam1.png",
+        "features": ["20.1 MP","Sensor type CCD1","LCD size 2.7","Lithium Battery"]
+    },{
+        "itemId":2,
+        "itemTitle": "Some other sony",
+        "rating": 4,
+        "price": 7000,
+        "emiPrice": 352,
+        "itemImage": "/images/cam2.jpg",
+        "features": ["20.1 MP","Sensor type CCD","LCD size 2.7","Lithium Battery"]
+    },
+    {
+        "itemId":3,
+        "itemTitle": "Sony Cyber-shot DSC-W830/BC Point & Shoot Camera(Black)",
+        "rating": 2,
+        "price": 6800,
+        "emiPrice": 352,
+        "itemImage": "/images/cam3.png",
+        "features": ["20.1 MP","Sensor type CCD","LCD size 2.7","Lithium Battery"]
+    },
+    {
+        "itemId":4,
+        "itemTitle": "Sony Cyber-shot DSC-W830/BC Point & Shoot Camera(Black)",
+        "rating": 1.5,
+        "price": 9000,
+        "emiPrice": 352,
+        "itemImage": "../images/cam4.jpg",
+        "features": ["20.1 MP","Sensor type CCD","LCD size 2.7","Lithium Battery"]
+    }
+ ]
+}
